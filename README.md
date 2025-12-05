@@ -293,6 +293,9 @@ GPT insights:
 
 # 8. Conclusion
 
+![Heatmap Dataset 1](heatmap_dataset1.png)
+
+
 Traditional machine learning models remain highly effective for spam detection when combined with TF-IDF.  
 Ensembles deliver the most stable performance and highest accuracy.  
 GPT, despite being used in zero-shot mode, achieved strong results by capturing semantic patterns instead of surface-level word frequencies.
